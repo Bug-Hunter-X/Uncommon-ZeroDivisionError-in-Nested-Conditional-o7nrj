@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon coding error in Python: a ZeroDivisionError that may not be immediately obvious due to nested conditional logic. The error occurs only when both input parameters are zero, causing an unexpected division by zero in the 'else' block. The solution provides an updated function that correctly handles the edge case where both inputs are zero.
